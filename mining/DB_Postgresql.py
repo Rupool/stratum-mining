@@ -1,6 +1,6 @@
 import time
 import hashlib
-from stratum import settings
+from lib import settings
 import stratum.logger
 log = stratum.logger.get_logger('DB_Postgresql')
 
